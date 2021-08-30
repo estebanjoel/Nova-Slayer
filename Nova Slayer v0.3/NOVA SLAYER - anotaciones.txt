@@ -1,0 +1,44 @@
+NovaSlayerBounds:
+Top: 6
+Bottom: -7
+Left: -17
+Right: 16
+
+enemyXpositions: [3]
+enemyYpositions: [12]
+occupiedPositions: [3] * [12] = [36]
+
+// chequear posicion ocupada 
+[0, 1, 2]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+1: 0,0
+2: 0,1
+3: 0,2
+4: 1,0
+5: 1,1
+6: 1,2
+
+// divido la lista
+
+si y = 0
+lista[(0+1*3)-2, 0+1*3] 
+
+// asignar posicion
+
+lista[(0*3) + xPos]
+
+// posiciones en y de los boss geminis
+1: 3
+2: -5.5
+
+// Altura del sprite del laser geminis
+altura_inicial = 1
+altura_final = 19
+
+// Offset Box Collider 2D laser geminis
+y_inicial = 0
+y_final = 8.85
+
+//Tamaño Box Collider 2D laser geminis
+y_inicial = 1
+y_final = 18.71

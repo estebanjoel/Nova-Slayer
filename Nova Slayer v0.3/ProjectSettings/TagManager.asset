@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Spaceship
+  - HitEffect
+  - SmokeEffect
+  - FireEffect
+  - Boss
+  - SecondaryWeapon
+  - SpecialBullet
+  - Item
+  - Asteroid
+  - SpaceRock
+  - Shield
+  - Aura
+  - Heal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Evil
+  - Good
+  - Effect
+  - Obstacle
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1447032435
+    locked: 0
+  - name: Decoration
+    uniqueID: 572258331
+    locked: 0
+  - name: BackEffect
+    uniqueID: 368389163
+    locked: 0
+  - name: Player
+    uniqueID: 417156283
+    locked: 0
+  - name: Enemy
+    uniqueID: 3172718325
+    locked: 0
+  - name: Item
+    uniqueID: 4186342809
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3191570613
+    locked: 0
+  - name: FrontEffect
+    uniqueID: 1516892597
+    locked: 0
+  - name: UI
+    uniqueID: 1257130313
+    locked: 0
