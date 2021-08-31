@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: a4cafad353bf6fe44b162a72953e16db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7406720748712345215
+    second: vippng.com-shockwave-effect-png-5536945_0
+  - first:
+      213: 540235876410396283
+    second: vippng.com-shockwave-effect-png-5536945_1
+  - first:
+      213: 4890561077502001918
+    second: vippng.com-shockwave-effect-png-5536945_2
+  - first:
+      213: -9221144057499457287
+    second: vippng.com-shockwave-effect-png-5536945_3
+  - first:
+      213: -6173918024243939361
+    second: vippng.com-shockwave-effect-png-5536945_4
+  - first:
+      213: 2147001340734716308
+    second: vippng.com-shockwave-effect-png-5536945_5
+  - first:
+      213: 1416008897272787581
+    second: vippng.com-shockwave-effect-png-5536945_6
+  - first:
+      213: 9150718764673652332
+    second: vippng.com-shockwave-effect-png-5536945_7
+  - first:
+      213: 6823570448817035571
+    second: vippng.com-shockwave-effect-png-5536945_8
+  - first:
+      213: 1353844532826185861
+    second: vippng.com-shockwave-effect-png-5536945_9
+  - first:
+      213: -1830432469898115018
+    second: vippng.com-shockwave-effect-png-5536945_10
+  - first:
+      213: -877919448334515018
+    second: vippng.com-shockwave-effect-png-5536945_11
+  - first:
+      213: -6090936192483453644
+    second: vippng.com-shockwave-effect-png-5536945_12
+  - first:
+      213: 6125503848708009872
+    second: vippng.com-shockwave-effect-png-5536945_13
+  - first:
+      213: -4396386006798888307
+    second: vippng.com-shockwave-effect-png-5536945_14
+  - first:
+      213: -3382215680673432801
+    second: vippng.com-shockwave-effect-png-5536945_15
+  - first:
+      213: -896897586620106490
+    second: vippng.com-shockwave-effect-png-5536945_16
+  - first:
+      213: 658556207365692158
+    second: vippng.com-shockwave-effect-png-5536945_17
+  - first:
+      213: -4475329958241836146
+    second: vippng.com-shockwave-effect-png-5536945_18
+  - first:
+      213: -9133569040887983044
+    second: vippng.com-shockwave-effect-png-5536945_19
+  - first:
+      213: 2753465785221318801
+    second: vippng.com-shockwave-effect-png-5536945_20
+  - first:
+      213: -4221832586710824606
+    second: vippng.com-shockwave-effect-png-5536945_21
+  - first:
+      213: 7451083500783233981
+    second: vippng.com-shockwave-effect-png-5536945_22
+  - first:
+      213: 3681942563980440362
+    second: vippng.com-shockwave-effect-png-5536945_23
+  - first:
+      213: -5581865456421019595
+    second: vippng.com-shockwave-effect-png-5536945_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719.2
+        width: 187.2
+        height: 179.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9bef52914eab34f86d133359e8d0b5
+      internalID: -7406720748712345215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 719
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274f66d645ed3147955e8e234c4a5d6
+      internalID: 540235876410396283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 719
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30885b3678cbbd6488d9a0073be91e6e
+      internalID: 4890561077502001918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 719
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9360915450a5e94987113ea784c6e27
+      internalID: -9221144057499457287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 719
+        width: 140
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19310ac3209cde94f9a9396ac9bfb1f0
+      internalID: -6173918024243939361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 527
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0224dda0ae9b16149a6d578c6bc17106
+      internalID: 2147001340734716308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 529
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ec00bdb465f0e419e7e31706a78338
+      internalID: 1416008897272787581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 529
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21114979ea0881745a2c76c8b7c2764e
+      internalID: 9150718764673652332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 529
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35853fcb48a3554e89db003354ab07e
+      internalID: 6823570448817035571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 529
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76921bd3766f173418050f97ba157c28
+      internalID: 1353844532826185861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c515cfc86ef441930bd91a0521894
+      internalID: -1830432469898115018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940d217b7029014388139fbdce3a77e
+      internalID: -877919448334515018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 336
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03558259d15d0e4c8206ad07170c574
+      internalID: -6090936192483453644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 336
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4043854133ed5824daf0bd2073c205c3
+      internalID: 6125503848708009872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 361
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ee6e9a0dec7f47b4318a5158045b7
+      internalID: -4396386006798888307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26dc3149a24b9141ba79d2f8f764e39
+      internalID: -3382215680673432801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 144
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6719e982b71d34abca6c37eb304a2e
+      internalID: -896897586620106490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 145
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e94adbc7ec4674ca3ae7b51abdaa92
+      internalID: 658556207365692158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 142
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b62dec3e113449b2a6b47c6d4d310
+      internalID: -4475329958241836146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 185
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d0e239e4d1c24cb88e70dbb4ffc71
+      internalID: -9133569040887983044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 187.2
+        height: 179.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643405751dc19464ab07bdac4a223bad
+      internalID: 2753465785221318801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c3dfa10d17de438dd8dd03a135e91
+      internalID: -4221832586710824606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3.199997
+        width: 187.2
+        height: 179.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca5dee4f2241d43b06e3d135eba126
+      internalID: 7451083500783233981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3.199997
+        width: 187.2
+        height: 179.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dededbaefb9e4234a9c52d49e146a791
+      internalID: 3681942563980440362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-shockwave-effect-png-5536945_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3.199997
+        width: 187.2
+        height: 179.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9469d5059e77b9242a96613f6b47183c
+      internalID: -5581865456421019595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
