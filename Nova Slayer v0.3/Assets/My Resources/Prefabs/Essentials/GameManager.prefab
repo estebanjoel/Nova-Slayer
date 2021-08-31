@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6405601366799076744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6405601366799076750}
+  - component: {fileID: 6405601366799076751}
+  - component: {fileID: 2098717268}
+  - component: {fileID: 2031294829}
+  - component: {fileID: 2031294831}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6405601366799076750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6405601366799076744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.9206248, y: -1.3683136, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6405601366799076751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6405601366799076744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bedc157bf27b6f47aac18695643bce7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isGodModeActive: 0
+  itemSpawner: {fileID: 0}
+  ammoSpawner: {fileID: 0}
+  asteroidSpawner: {fileID: 0}
+  spaceRockSpawner: {fileID: 0}
+  levelManager: {fileID: 2098717268}
+  topLevelInfo: {fileID: 2031294831}
+  scoreController: {fileID: 2031294829}
+  playerStartPosition: {fileID: 0}
+  victoryCondition: 0
+  failCondition: 0
+  currentEnemyWave: 0
+  enemySpawner: {fileID: 0}
+  bossCount: 0
+  levelMusic: {fileID: 0}
+  victoryClip: {fileID: 8300000, guid: d6ed97a06e6989c45800885770cd27df, type: 3}
+  gameOverClip: {fileID: 8300000, guid: 0b1eb1ef0b2341b42926ce51fc8c1e93, type: 3}
+--- !u!114 &2098717268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6405601366799076744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80240812dcdfde4185688c4a2acac4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scenesToLoad:
+  - Lvl1
+  - Lvl2
+  - Lvl3
+  - Lvl4
+  - Ending
+  currentScene: 
+--- !u!114 &2031294829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6405601366799076744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c5cdfdeefcb0d4e92f12be9256ed7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemiesKilledPoints: 0
+  timer: 0
+  canCheckTimer: 0
+  timePassedPoints: 0
+  estimatedTimes:
+  - 0
+  - 0
+  - 0
+  estimatedTimesPoints: e8030000d007000088130000
+  livesLostPoints: 0
+  perfectlivesScore: 0
+  totalPoints: 0
+  previousPoints: 0
+--- !u!114 &2031294831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6405601366799076744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f72f5775a5c7ef4ba7a77b5294d1820, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beginningPlayerLives: 0
+  beginningPlayerSecondaryAmmo: 00000000000000000000000000000000
+  beginningPlayerPlasmaBombAmmo: 0
